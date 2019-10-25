@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UrBMI</string>
+    <string name="title">Calculate Ur BMI</string>
+    <string name="enter_weight">Enter Weight (kg)</string>
+    <string name="enter_height">Enter Height (cm)</string>
+    <string name="calc_button">Calculate BMI</string>
+    <string name="bmi_score">BMI Score:</string>
+    <string name="bmi_category">BMI Category is</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
